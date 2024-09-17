@@ -23,4 +23,4 @@ end
 
 # modifying first file
 
-puts nthmax(0,[3,2,1,7])
+puts fib(4)
