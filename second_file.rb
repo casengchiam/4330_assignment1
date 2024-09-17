@@ -4,3 +4,6 @@ def isPalindrome(n)
   n_rev = n_str.reverse
   return n_str.eql?n_rev
 end
+
+puts isPalindrome("racecar")
+# modifying second file 
