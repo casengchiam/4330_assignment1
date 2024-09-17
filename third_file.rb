@@ -10,3 +10,5 @@ def nthmax(n, a)
   a.reverse!
   return a[n]
 end
+
+puts nthmax(0, [3,6,9,0,2,3])
